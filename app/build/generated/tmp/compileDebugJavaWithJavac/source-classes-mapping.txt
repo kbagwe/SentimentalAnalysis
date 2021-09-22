@@ -1,0 +1,46 @@
+com/example/ssdi_microsoft_api/CreateNewAccount.java
+ com.example.ssdi_microsoft_api.CreateNewAccount
+ com.example.ssdi_microsoft_api.CreateNewAccount$1
+ com.example.ssdi_microsoft_api.CreateNewAccount$2
+ com.example.ssdi_microsoft_api.CreateNewAccount$3
+ com.example.ssdi_microsoft_api.CreateNewAccount$3$1
+ com.example.ssdi_microsoft_api.CreateNewAccount$3$2
+ com.example.ssdi_microsoft_api.CreateNewAccount$NewAccountListener
+com/example/ssdi_microsoft_api/userEachComment.java
+ com.example.ssdi_microsoft_api.userEachComment
+com/example/ssdi_microsoft_api/FullSentenceAnalysisMicrosoft.java
+ com.example.ssdi_microsoft_api.FullSentenceAnalysisMicrosoft
+com/example/ssdi_microsoft_api/LoginFragment.java
+ com.example.ssdi_microsoft_api.LoginFragment
+ com.example.ssdi_microsoft_api.LoginFragment$1
+ com.example.ssdi_microsoft_api.LoginFragment$2
+ com.example.ssdi_microsoft_api.LoginFragment$3
+ com.example.ssdi_microsoft_api.LoginFragment$3$1
+ com.example.ssdi_microsoft_api.LoginFragment$LoginListener
+com/example/ssdi_microsoft_api/CommentDetailHistoryFragment.java
+ com.example.ssdi_microsoft_api.CommentDetailHistoryFragment
+ com.example.ssdi_microsoft_api.CommentDetailHistoryFragment$1
+com/example/ssdi_microsoft_api/FullSentenceAnalysisMonkey.java
+ com.example.ssdi_microsoft_api.FullSentenceAnalysisMonkey
+com/example/ssdi_microsoft_api/DisplayHistory.java
+ com.example.ssdi_microsoft_api.DisplayHistory
+ com.example.ssdi_microsoft_api.DisplayHistory$1
+ com.example.ssdi_microsoft_api.DisplayHistory$DisplayHistoryListener
+ com.example.ssdi_microsoft_api.DisplayHistory$UserEachCommentRecylerAdapter
+ com.example.ssdi_microsoft_api.DisplayHistory$UserEachCommentRecylerAdapter$UserEachCommentRecylerView
+ com.example.ssdi_microsoft_api.DisplayHistory$UserEachCommentRecylerAdapter$UserEachCommentRecylerView$1
+com/example/ssdi_microsoft_api/FirbaseClassMonkeyMicrosoftAPIInformation.java
+ com.example.ssdi_microsoft_api.FirbaseClassMonkeyMicrosoftAPIInformation
+com/example/ssdi_microsoft_api/BuildConfig.java
+ com.example.ssdi_microsoft_api.BuildConfig
+com/example/ssdi_microsoft_api/MainActivity.java
+ com.example.ssdi_microsoft_api.MainActivity
+com/example/ssdi_microsoft_api/DisplayScreen.java
+ com.example.ssdi_microsoft_api.DisplayScreen
+ com.example.ssdi_microsoft_api.DisplayScreen$1
+ com.example.ssdi_microsoft_api.DisplayScreen$2
+ com.example.ssdi_microsoft_api.DisplayScreen$3
+ com.example.ssdi_microsoft_api.DisplayScreen$4
+ com.example.ssdi_microsoft_api.DisplayScreen$5
+ com.example.ssdi_microsoft_api.DisplayScreen$6
+ com.example.ssdi_microsoft_api.DisplayScreen$displayScreenListener
